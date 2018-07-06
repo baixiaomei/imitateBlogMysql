@@ -1,12 +1,12 @@
 {
-  "name": "ejs",
+  "name": "ejs1",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.3",
+    "cookie-parser": "~1.4.2",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
     "express": "~4.16.0",
